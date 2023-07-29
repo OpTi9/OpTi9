@@ -41,7 +41,7 @@
 ## 💻 Some of My Web Projects
 
 - [ezhaev.me](https://github.com/OpTi9/Portfolio-page) - My portfolio page. Built using React + Next.js + Typescript + Tailwind and Sanity Studio. 
-- [NFT minting Dapp](https://github.com/username/project2) - NFT minting dapp project build on Polygon network using React.JS and Hardhat.
+- [NFT minting Dapp](https://github.com/OpTi9/Polygon-NFT-project) - NFT minting dapp project build on Polygon network using React.JS and Hardhat.
 
 ## 🎮 Some of My Game Projects
 
