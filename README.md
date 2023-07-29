@@ -4,7 +4,7 @@
 
 🎮 I also love to delve into the world of game development with **Unity and C#**.
 
-💬 Fun Fact: if you ever bring up Game of Thrones in a conversation with me, prepare to be [spammed](https://i.kym-cdn.com/entries/icons/mobile/000/039/564/%E2%80%9CCatching_Up%E2%80%9D_-_Being_The_Elite_Ep._273_7-57_screenshot.jpg) with countless fan theories.
+💬 Fun Fact: if you bring up Game of Thrones in a conversation with me, prepare to be [spammed](https://i.kym-cdn.com/entries/icons/mobile/000/039/564/%E2%80%9CCatching_Up%E2%80%9D_-_Being_The_Elite_Ep._273_7-57_screenshot.jpg) with countless fan theories.
 
 ## My Favorite Stack:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
