@@ -4,6 +4,8 @@
 
 🎮 I also love to delve into the world of game development with **Unity and C#**.
 
+💬 Fun Fact: if you ever bring up Game of Thrones in a conversation with me, prepare to be [bombarded](https://i.kym-cdn.com/entries/icons/mobile/000/039/564/%E2%80%9CCatching_Up%E2%80%9D_-_Being_The_Elite_Ep._273_7-57_screenshot.jpg) with countless fan theories.
+
 ## My Favorite Stack:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black)
@@ -46,6 +48,10 @@
 - [Escape From TOS York](https://github.com/OpTi9/Escape-From-TOS-York/) - a 2D Roguelike bullet hell game.
 - [2D Tower Defence](https://github.com/OpTi9/Tower-Defence) - classic 2D Tower Defense game in Unity game engine.
 
+## 👨‍💻 What I'm working on right now 
+
+- [Cinechat](https://github.com/OpTi9/CinemaChat) - A Real-Time Messenger that allows people to propose and vote on movies they want to watch together.
+
 ## 📫 How to Reach Me
 
 Feel free to connect with me on:
@@ -53,7 +59,3 @@ Feel free to connect with me on:
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="javascript" width="24" height="24"/> [LinkedIn](https://www.linkedin.com/in/azamat-ezhaev/)
 - <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" alt="javascript" width="24" height="24"/> [Discord](discordapp.com/users/166243195280162816)
 - <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="javascript" width="24" height="24"/> aezhaev@gmail.com
-
-Also, check out my portfolio [here](https://www.yourwebsite.com)!
-
-Thanks for stopping by!
