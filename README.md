@@ -23,6 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/-Electron.js-000000?logo=Electron.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=Tailwind-CSS&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=Symfony&logoColor=white)
 ### Back:
@@ -42,7 +43,7 @@
 
 - [ezhaev.me](https://github.com/OpTi9/Portfolio-page) - My portfolio page. Built using React + Next.js + Typescript + Tailwind and Sanity Studio. 
 - [NFT minting Dapp](https://github.com/OpTi9/Polygon-NFT-project) - NFT minting dapp project build on Polygon network using React.JS and Hardhat.
-- [Obsidian Tekken Notation](https://github.com/OpTi9/obsidian-tekken-notation) - Obsidian plugin to visualise Tekken input notation.
+- [Obsidian Tekken Notation](https://github.com/OpTi9/obsidian-tekken-notation) - Obsidian plugin to visualise Tekken input notations.
 
 ## 🎮 Some of My Game Projects
 
