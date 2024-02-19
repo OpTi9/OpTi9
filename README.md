@@ -42,7 +42,7 @@
 
 - [ezhaev.me](https://github.com/OpTi9/Portfolio-page) - My portfolio page. Built using React + Next.js + Typescript + Tailwind and Sanity Studio. 
 - [NFT minting Dapp](https://github.com/OpTi9/Polygon-NFT-project) - NFT minting dapp project build on Polygon network using React.JS and Hardhat.
-- [Obsidian Tekken Notation] - Obsidian plugin to visualise Tekken input notation.
+- [Obsidian Tekken Notation](https://github.com/OpTi9/obsidian-tekken-notation) - Obsidian plugin to visualise Tekken input notation.
 
 ## 🎮 Some of My Game Projects
 
