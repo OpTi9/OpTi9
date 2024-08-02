@@ -2,7 +2,7 @@
 
 🌐 I'm a full-stack developer with a passion for creating web applications. My core technologies include **HTML/CSS/JS, TypeScript, React, Next.js, and TailwindCSS** on the front-end. On the back-end, I primarily use **MongoDB with Prisma** for data persistence.
 
-🎮 I also love to delve into the world of game development with **Unity and C#**.
+🎮 I also love to dabble in game development using **Unity and C#**.
 
 💬 Fun Fact: if you bring up Game of Thrones in a conversation with me, prepare to be [spammed](https://i.kym-cdn.com/entries/icons/mobile/000/039/564/%E2%80%9CCatching_Up%E2%80%9D_-_Being_The_Elite_Ep._273_7-57_screenshot.jpg) with countless fan theories.
 
