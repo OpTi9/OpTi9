@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E34F26?logo=Nest.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=Tailwind-CSS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=Prisma&logoColor=white)
@@ -17,16 +18,13 @@
 ## Technologies I'm using
 
 ### Front:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/-Electron.js-000000?logo=Electron.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=Tailwind-CSS&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=Symfony&logoColor=white)
 ### Back:
+![Nest.js](https://img.shields.io/badge/-Nest.js-E34F26?logo=Nest.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=Prisma&logoColor=white)
 ![Sanity Studio](https://img.shields.io/badge/-SanityStudio-333333?logo=Sanity&logoColor=white)
@@ -38,7 +36,7 @@
 ### Game Development:
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=C-Sharp&logoColor=white)
-
+![Godot](https://img.shields.io/badge/-Godot-003A70?logo=Godot&logoColor=white)
 ## 💻 Some of My Web Projects
 
 - [NFT minting Dapp](https://github.com/OpTi9/Polygon-NFT-project) - NFT minting dapp project build on Polygon network using React.JS and Hardhat.
