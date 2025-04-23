@@ -18,7 +18,7 @@
 
 ## 💻 Some of My Web Projects
 
-- [AdaCosmos](link-to-your-adacosmos-repo-if-public) - Award-winning (3rd Place, TapTools Cardano Hackathon '25) interactive 3D platform visualizing the Cardano ecosystem. Built using Next.js/React, Node.js (API proxy), and Redis (caching).
+- [AdaCosmos](www.adacosmos.cc) - Award-winning (3rd Place, TapTools Cardano Hackathon '25) interactive 3D platform visualizing the Cardano ecosystem. Built using Next.js/React, Node.js (API proxy), and Redis (caching).
 - [E-commerce Platform](link-to-your-ecommerce-repo-if-public) - Full-stack e-commerce site featuring user auth, product catalog, cart, and orders. Built with Nest.js, PostgreSQL (Prisma), Next.js, Docker, and Nginx. Includes CI/CD via GitHub Actions.
 - [NFT minting Dapp](https://github.com/OpTi9/Polygon-NFT-project) - NFT minting dapp project build on Polygon network using React.JS and Hardhat.
 - [Obsidian Tekken Notation](https://github.com/OpTi9/obsidian-tekken-notation) - Obsidian plugin to visualise Tekken input notations.
