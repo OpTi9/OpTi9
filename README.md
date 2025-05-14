@@ -1,6 +1,8 @@
-🌐 Full-stack developer. My core technologies include TypeScript, React, Next.js, and TailwindCSS** on the front-end. On the back-end, I primarily use **Node.js / Express / Nest.js**.
+🌐 Full-stack developer. My core technologies include TypeScript, React, Next.js, and TailwindCSS on the front-end. On the back-end, I primarily use **Node.js / Express / Nest.js**.
 
 🎮 I also love to dabble in game development using **Unity and C#**.
+
+Also, here are ![my medium articles](https://medium.com/@aezhaev)
 
 ## Stack:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
